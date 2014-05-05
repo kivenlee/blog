@@ -9,6 +9,7 @@
                 "其他": "posts"
         },        
         "perpage"   : 5,
+        "template"  : "pithiness",
         "types"     : {
                 "\\.(md||markdown)$"   : "markdown", 
                 "\\.(js||css||json)$"  : "code",
