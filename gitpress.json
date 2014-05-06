@@ -16,7 +16,7 @@
                 "\\.html?$"            : "html",
                 ".*"                   : "text"                
         },
-        "title"  : "李琛的官方网站",
+        "title"  : "李琛's Blog",
         "comment"  : {"type": "duoshuo", "short_name":"lichen"},
         "friends"  : [
                 {
