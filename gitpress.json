@@ -17,7 +17,7 @@
                 ".*"                   : "text"                
         },
         "title"  : "李琛的官方网站",
-        "comment"  : {"type": "duoshuo", "short_name":"lichen"},
+        "comment"  : {"type": "duoshuo", "short_name":"gitpress"},
         "friends"  : [
                 {
                         "name"  : "kiven的小站",
