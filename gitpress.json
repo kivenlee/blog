@@ -1,11 +1,9 @@
 {
         "docs"      : {
                 "关于我的博客": "README.md",
-                "gitpress": "posts/gitpress",
-                "PHP": "posts/PHP",
+                "游戏数据分析方法": "posts/游戏数据分析方法",
+                "R": "posts/R",
                 "Python": "posts/python",
-                "JavaScript": "posts/JavaScript",
-                "算法": "posts/算法",
                 "其他": "posts"
         },        
         "perpage"   : 5,
