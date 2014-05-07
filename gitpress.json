@@ -17,7 +17,6 @@
         },
         "title"  : "李琛's Blog",
         "comment"  : {"type": "duoshuo", "short_name":"lichen"},
-        "domain_alias" :  ["www.lichen.name","blog.lichen.name"],
         "friends"  : [
                 {
                         "name"  : "kiven的小站",
