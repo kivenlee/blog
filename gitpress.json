@@ -4,7 +4,7 @@
                 "游戏数据分析方法": "posts/游戏数据分析方法",
                 "R": "posts/R",
                 "Python": "posts/python",
-				"数据挖掘技术": "posts/数据挖掘技术",
+		"数据挖掘技术": "posts/数据挖掘技术",
                 "其他": "posts"
         },        
         "perpage"   : 5,
