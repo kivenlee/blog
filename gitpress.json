@@ -16,6 +16,7 @@
                 ".*"                   : "text"                
         },
         "title"  : "李琛's Blog",
+        "domain_alias" :  ["www.lichen.name"], 
         "comment"  : {"type": "duoshuo", "short_name":"lichen"},
         "friends"  : [
                 {
