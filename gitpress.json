@@ -1,10 +1,11 @@
-{
+﻿{
         "docs"      : {
                 "关于我的博客": "README.md",
                 "游戏数据分析方法": "posts/游戏数据分析方法",
                 "R": "posts/R",
                 "Python": "posts/python",
 		"数据挖掘技术": "posts/数据挖掘技术",
+                "描述统计学": "posts/统计学",
                 "其他": "posts"
         },        
         "perpage"   : 5,

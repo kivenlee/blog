@@ -1,0 +1,18 @@
+不可不知的统计学知识
+=======================
+近期系统回顾了下，统计学的一些基础知识，为了以后回顾方便，特整理本文
+
+####一. 数据的描述
+用图来描述:直方图,盒形图,茎叶图,散点图,饼图,条形图等.
+#####概括统计量(summary statistic)
+
+#####位置统计量(location statistic):描述数据中心
+1. 均值(mean):
+2. 中位数(median): 因为不容易受到极端之的影响,所以较均值稳健(robust)
+3. 上下四分位数或者叫第一四分位数,第三四分位数(fist quantile,third quantile)
+4. k百分位数(k-pecentile):
+#####尺度统计量(scale statistic):描述数据的散布,即描述数据集中和分散程度
+1. 极差(range):max - min
+2. 四分位数极差(interquantile range):中间半数观察值的分布
+3. 标准差(standard deviation): 方差的平方根,好处是可以和样本同一个量纲
+4. 方差(variance):
