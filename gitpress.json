@@ -1,6 +1,5 @@
 ﻿{
         "docs"      : {
-                "关于我的博客": "README.md",
                 "游戏数据分析方法": "posts/游戏数据分析方法",
                 "R": "posts/R",
                 "Python": "posts/python",
